@@ -10,5 +10,5 @@
 - Адаптивную верстку (Flexbox, Grid)
 
 Связаться со мной
-- Telegram: [@lainzss](https://t.me/lainzss
+- Telegram: [@lainzss](https://t.me/lainzss)
 - email: lain.zss@mail.ru
