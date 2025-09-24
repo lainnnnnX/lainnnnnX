@@ -1,4 +1,4 @@
-👋 Привет! Я Lain
+👋 Привет! Я Евгений
 
 Я младший front-end разработчик
 
@@ -10,5 +10,5 @@
 - Адаптивную верстку (Flexbox, Grid)
 
 Связаться со мной
-- Telegram: [@lainzss](https://t.me/lainzss)
+- Telegram: [@delta_advertisment](https://t.me/delta_advertisment)
 - email: lain.zss@mail.ru
