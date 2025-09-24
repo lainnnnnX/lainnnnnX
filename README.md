@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Привет! Я Lain
 
-<!--
-**lainnnnnX/lainnnnnX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий front-end разработчик, изучаю HTML
 
-Here are some ideas to get you started:
+Скоро будет мой первый проект
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Сейчас изучаю
+- HTML5 и CSS3
+- Основы JavaScript
+- Адаптивную верстку (Flexbox, Grid)
+
+Связаться со мной
+- Telegram: [@lainzss](https://t.me/lainzss
+- email: lain.zss@mail.ru
