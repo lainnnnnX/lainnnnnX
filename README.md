@@ -10,5 +10,5 @@
 - Адаптивную верстку (Flexbox, Grid)
 
 Связаться со мной
-- Telegram: [@delta_advertisment](https://t.me/delta_advertisment)
+- Telegram: [@delta_advertisement](https://t.me/delta_advertisement)
 - email: lain.zss@mail.ru
